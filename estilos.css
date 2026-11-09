@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightsteelblue;
+}
+
+section {
+    background-color: lightyellow;
+    margin-left: 650px;
+    margin-right: 650px;
+    clear: left;
+    padding: 20px;
+}
+
+.torre {
+    float: left;
+    width: 250px;
+    height: 200px;
+    margin-right: 10px;
+}
